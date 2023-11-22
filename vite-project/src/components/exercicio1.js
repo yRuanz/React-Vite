@@ -9,3 +9,4 @@ const Exercicio1 = () => {
     </>
   );
 };
+export default Exercicio1

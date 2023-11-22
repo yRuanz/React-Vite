@@ -5,3 +5,5 @@ const Exercicio2 = () => {
       </>
     );
   };
+
+export default Exercicio2
